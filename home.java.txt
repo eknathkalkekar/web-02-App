@@ -3,6 +3,12 @@ public class home{
    public void add(){
 
     //logit 
+   }
+
+   public void multiple(){
+                 //Logic
+
+}
 
 
 }
